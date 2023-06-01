@@ -1,4 +1,4 @@
-# teste_target
+
 
 # q2) 
 Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores 
